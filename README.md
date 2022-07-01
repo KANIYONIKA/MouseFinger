@@ -18,9 +18,11 @@ What is the MouseFinger
 How To Install
 ====================
 <ul>
-<li>Visit our release page to download unitypackage. Once completed, import the package from Unity's Assets→ImportPackage.</li>
+<li>Visit our release page to download unitypackage. Once completed, import the package from Unity's Assets→ImportPackage.<br>
+https://github.com/KANIYONIKA/MouseFinger/releases</li>
 <br>
-<li>リリースページにアクセスしunitypackageをダウンロードしてください。完了したらUnityのAssets→ImportPackageから取り込んでください。</li>
+<li>リリースページにアクセスしunitypackageをダウンロードしてください。完了したらUnityのAssets→ImportPackageから取り込んでください。<br>
+https://github.com/KANIYONIKA/MouseFinger/releases</li>
 <br>
 <li>Dependency asset: Unity UI (com.unity.ugui)</li>
 <br>
