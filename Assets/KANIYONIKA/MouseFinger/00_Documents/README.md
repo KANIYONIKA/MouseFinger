@@ -21,12 +21,7 @@ How To Install
 <li>Visit our release page to download unitypackage. Once completed, import the package from Unity's Assets→ImportPackage.</li>
 <br>
 <li>リリースページにアクセスしunitypackageをダウンロードしてください。完了したらUnityのAssets→ImportPackageから取り込んでください。</li>
-<br>
-<li>Dependency asset: Unity UI (com.unity.ugui)</li>
-<br>
-<li>依存アセット: Unity UI (com.unity.ugui)</li>
 </ul>
-
 <br>
   
 How To Use
