@@ -17,6 +17,7 @@ How To Install
 4. Enter "http://"
 5. Press "Add"
 
+
 1. パッケージマネージャーを開く
 2. 左上の「+」を押す
 3. "Add package from git URL... "を押す。
