@@ -2,9 +2,9 @@ What is the MouseFinger
 ====================
 
 <ul>
-<li><b>MouseFinger</b> is a Unity Asset that replaces the Mouse Pointer on the GameView with Finger Images. Use it when shooting video for advertisements, for example.</li>
+<li><b>MouseFinger</b> is a Unity asset that replaces the mouse pointer with an image of a finger. We have the impression that many people use it when shooting videos for advertisements, for example. Feel free to use it for other purposes as well. Customization is also possible, such as replacing images.</li>
 <br>
-<li><b>MouseFinger</b> は、GameView 上のマウスポインタを指の画像に置き換える Unity のアセットです。広告用の動画撮影時などにご利用ください。</li>
+<li><b>MouseFinger</b> は、マウスポインタを指の画像に置き換える Unity のアセットです。広告用の動画撮影時などで利用される方が多い印象です。その他の用途でもご自由にお使いください。画像の差し替えなど、カスタマイズも可能です。</li>
 </ul>  
 <br>
 
@@ -17,15 +17,27 @@ What is the MouseFinger
 
 How To Install
 ====================
+
+
+
+From Unity-PackageManager
+<ul>
+<li>After purchasing "MouseFinger" for FREE at the UnityAssetStore, Windows → PackageManager → Packages:MyAssets → MouseFinger, Push import.
+<li>UnityAssetStore にて「MouseFinger」を無料で購入後、Windows → PackageManager → Packages:MyAssets → MouseFinger　を Import。</li>
+</ul>
+
+From GitHub 
 <ul>
 <li>Visit our release page to download unitypackage. Once completed, import the package from Unity's Assets→ImportPackage.<br>
 https://github.com/KANIYONIKA/MouseFinger/releases</li>
-<br>
 <li>リリースページにアクセスしunitypackageをダウンロードしてください。完了したらUnityのAssets→ImportPackageから取り込んでください。<br>
 https://github.com/KANIYONIKA/MouseFinger/releases</li>
-<br>
+</ul>
+
+
+Info
+<ul>
 <li>Dependency asset: Unity UI (com.unity.ugui)</li>
-<br>
 <li>依存アセット: Unity UI (com.unity.ugui)</li>
 </ul>
 
