@@ -22,8 +22,10 @@ How To Install
 
 From Unity-PackageManager
 <ul>
-<li>After purchasing "MouseFinger" for FREE at the UnityAssetStore, Windows → PackageManager → Packages:MyAssets → MouseFinger, Push import.
-<li>UnityAssetStore にて「MouseFinger」を無料で購入後、Windows → PackageManager → Packages:MyAssets → MouseFinger　を Import。</li>
+<li>After purchasing "MouseFinger" for FREE at the UnityAssetStore, Windows → PackageManager → Packages:MyAssets → MouseFinger, Push import.<br>
+https://assetstore.unity.com/packages/slug/226674</li>
+<li>UnityAssetStore にて「MouseFinger」を無料で購入後、Windows → PackageManager → Packages:MyAssets → MouseFinger　を Import。<br>
+https://assetstore.unity.com/packages/slug/226674</li>
 </ul>
 
 From GitHub 
